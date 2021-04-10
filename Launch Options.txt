@@ -1,1 +1,1 @@
--novid -nojoy -tickrate 128 +mat_queue_mode 2 -full -language custom +exec autoexec -nocrashdialog -r_emulate_gl -limitvsconst -softparticlesdefaultoff -noubershader -nopreload +r_dynamic 0 +mat_disable_fancy_blending 1 -noff -reuse
+-novid -nojoy -tickrate 128 +mat_queue_mode -2 -full -language custom +exec autoexec -nocrashdialog -limitvsconst -softparticlesdefaultoff -noubershader -nopreload -noff -reuse
