@@ -10,6 +10,13 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 ## Main version 1.0.0.0.
 
+### Version 1.0.0.7b
+* <!> **Reverted** +mat_queue_mode change from previous version.
+* Version in "autoexec" config file changed from 1.0.0.6. to 1.0.0.7b.
+* Minor tweaks to "video" config file.
+  * <!> **Reverted** mat_queue_mode change from previous version.
+* Adjustments to few values in "audio" config file.
+
 ### Version 1.0.0.6.
 
 * Launch Options Tweaked.
