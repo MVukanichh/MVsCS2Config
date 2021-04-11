@@ -8,7 +8,16 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 # Changelog
 
-## Main version 1.0.0.0.
+## Main version 1.0.0.0
+
+### Version 1.0.0.8
+* Version in "autoexec" config file changed from 1.0.0.7b to 1.0.0.8.
+* Added "nadepractice" config file.
+* Adjustments to "binds" config file.
+  * F2 binded to exec nadepractice config file.
+  * F3 binded to exec binds config file.
+    * <i> This bind is added so you can revert keybinds from executing NadePractice config file.
+
 
 ### Version 1.0.0.7b
 * <!> **Reverted** +mat_queue_mode change from previous version.
@@ -17,7 +26,7 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
   * <!> **Reverted** mat_queue_mode change from previous version.
 * Adjustments to few values in "audio" config file.
 
-### Version 1.0.0.6.
+### Version 1.0.0.6
 
 * Launch Options Tweaked.
   * Removed Launch Commands that do not work/do not exist anymore.
