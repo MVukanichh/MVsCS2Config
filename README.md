@@ -10,7 +10,14 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 ## Main version 1.0.0.0
 
+### Version 1.0.0.9
+
+* Version in "autoexec" config file changed from 1.0.0.8 to 1.0.0.9.
+* Minor tweaks to "csgo_custom" language file.
+* Minor tweaks to "binds" config file.
+
 ### Version 1.0.0.8
+
 * Version in "autoexec" config file changed from 1.0.0.7b to 1.0.0.8.
 * Added "nadepractice" config file.
 * Adjustments to "binds" config file.
@@ -20,6 +27,7 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 
 ### Version 1.0.0.7b
+
 * <!> **Reverted** +mat_queue_mode change from previous version.
 * Version in "autoexec" config file changed from 1.0.0.6. to 1.0.0.7b.
 * Minor tweaks to "video" config file.
