@@ -8,7 +8,22 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 # Changelog
 
-## Main version 1.0.0.0
+## Main Version 1.0.1.0
+
+### Version 1.0.1.0b
+
+* Version in "autoexec" config file changed from 1.0.0.9 to 1.0.1.0b.
+* Now executes "scripts" config file.
+* Added "scripts" config file.
+  * Template for Auto Clantag Changer
+  * Jumpthrow
+  * Crouch Jump
+  * Afk-Move
+* Modification to "binds" config file.
+  * "afk-move" alias binded to F4.
+* Minor tweaks to "nadepractice" config file.
+
+## Main Version 1.0.0.0
 
 ### Version 1.0.0.9
 
