@@ -10,6 +10,10 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 ## Main Version 1.0.1.0
 
+### Version 1.0.1.0c
+
+* Minor modification to "scripts" config file.
+
 ### Version 1.0.1.0b
 
 * Version in "autoexec" config file changed from 1.0.0.9 to 1.0.1.0b.
