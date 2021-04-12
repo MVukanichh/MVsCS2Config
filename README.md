@@ -40,6 +40,16 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 ## Main Version 1.0.1.0
 
+### Version 1.0.1.2
+
+* Version in "autoexec" config file changed from 1.0.1.1 to 1.0.1.2.
+* Added C4 drop script to "scripts" config file.
+* Togglebind for chaning hands added to "binds" config file.
+  * Togglebinded to button "F5".
+* Few tweaks to "scripts" config file.
+  * Jumpthrow script tweaked.
+  * Crouch Jump tweaked.
+
 ### Version 1.0.1.1
 
 * "How to use" added in README.md.
