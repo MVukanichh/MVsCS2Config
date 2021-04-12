@@ -8,13 +8,13 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 # How to use
 
-## How to download
+### How to download
 
 1. Press green "Code" button found at the top of the repository.
 2. Press "Download ZIP"
 3. Press "Save File" and choose in which Location do you want to save ZIP File.
 
-## Launch Options
+### Launch Options
 
 1. You must right click "Counter-Strike: Global Offensive" in your Steam Library.
 2. Press "Properties" and new window will pop-up.
@@ -23,7 +23,7 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 5. Paste everything in there and press ok.
 6. Close that window and start game to check if it works.
 
-## Configs
+### Configs
 
 1. Right click on "Counter-strike: Global Offensive" in your Steam Library.
 2. Press "Properties" and new window will pop-up.
@@ -38,9 +38,9 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 # Changelog
 
-## Main Version 1.0.1.0
+### Main Version 1.0.1.0
 
-### Version 1.0.1.2
+#### Version 1.0.1.2
 
 * Version in "autoexec" config file changed from 1.0.1.1 to 1.0.1.2.
 * Added C4 drop script to "scripts" config file.
@@ -50,19 +50,19 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
   * Jumpthrow script tweaked.
   * Crouch Jump tweaked.
 
-### Version 1.0.1.1
+#### Version 1.0.1.1
 
 * "How to use" added in README.md.
 * Version in "autoexec" config file changed from 1.0.1.0c to 1.0.1.1.
 * Few text fixes in "autoexec" config file.
 * Minor tweaks in "audio" config file.
 
-### Version 1.0.1.0c
+#### Version 1.0.1.0c
 
 * Version in "autoexec" config file changed from 1.0.1.0b to 1.0.1.0c.
 * Minor modification to "scripts" config file.
 
-### Version 1.0.1.0b
+#### Version 1.0.1.0b
 
 * Version in "autoexec" config file changed from 1.0.0.9 to 1.0.1.0b.
 * Now executes "scripts" config file.
@@ -75,15 +75,15 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
   * "afk-move" alias binded to F4.
 * Minor tweaks to "nadepractice" config file.
 
-## Main Version 1.0.0.0
+### Main Version 1.0.0.0
 
-### Version 1.0.0.9
+#### Version 1.0.0.9
 
 * Version in "autoexec" config file changed from 1.0.0.8 to 1.0.0.9.
 * Minor tweaks to "csgo_custom" language file.
 * Minor tweaks to "binds" config file.
 
-### Version 1.0.0.8
+#### Version 1.0.0.8
 
 * Version in "autoexec" config file changed from 1.0.0.7b to 1.0.0.8.
 * Added "nadepractice" config file.
@@ -92,8 +92,7 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
   * F3 binded to exec binds config file.
     * <i> This bind is added so you can revert keybinds from executing NadePractice config file.
 
-
-### Version 1.0.0.7b
+#### Version 1.0.0.7b
 
 * <!> **Reverted** +mat_queue_mode change from previous version.
 * Version in "autoexec" config file changed from 1.0.0.6. to 1.0.0.7b.
@@ -101,18 +100,16 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
   * <!> **Reverted** mat_queue_mode change from previous version.
 * Adjustments to few values in "audio" config file.
 
-### Version 1.0.0.6
+#### Version 1.0.0.6
 
 * Launch Options Tweaked.
   * Removed Launch Commands that do not work/do not exist anymore.
   * +mat_queue_mode adjusted.
-    * <!> This tweak is *Experimental*.
   * Removed Launch Options which can be in Config files instead of Launch Options.
 * Minor tweaks to "csgo_custom" language file.
 * Minor tweaks to "autoexec" config file.
 * Minor tweaks to "video" config file.
   * mat_queue_mode adjusted.
-    * <!> This tweak is *Experimental*.
 * Minor tweaks to "network" config file.
 * Minor tweaks to "hud" config file.
 * "clan" config file **Removed**.
