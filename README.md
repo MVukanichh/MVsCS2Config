@@ -38,6 +38,36 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 # Changelog
 
+### Main Version 1.1.0.0
+
+#### Version 1.1.0.0
+
+* Version in "autoexec" config file changed from 1.0.1.2 to 1.1.0.0.
+* Many grammar errors fixed.
+* Display Message "autoexec" config file echoes into Console changed.
+* "exec "MilesExInferno\notsorted.cfg"" removed from "autoexec" config file.
+* Changes in "audio" config file.
+  * Main sound volume increased from 0.2 to 0.215
+  * Snd_mix_async defaulted to 0
+  * Snd_mixahead changed from 1.0 to 0.5
+  * Snd_tensecondwarning_volume increased from 0.1 to 0.15
+  * Snd_mvp_volume decreased from 0.05 to 0.025
+  * Snd_dzmusic_volume changed from 0.05 to 0
+  * Dsp_slow_cpu defaulted to 1
+* Changes in "binds" config file.
+  * "TagBind" alias binded by default to W, A, S, D movement keys.
+  * "r_cleardecals" cvar added to TAB, SHIFT, JUMP and CTRL.
+  * Fixed BindToggle for "cl_righthand" binded to F5
+* Changes in "network" config file.
+  * Cl_timeout changed from 30 to 15
+  * Cl_resend_timeout changed from 20 to 15
+  * Cl_resend changed from 6 to 5
+  * Mm_dedicated_search_maxping changed from 50 to 60
+  * Net_maxroutable changed from 800 to 900
+  * Rate changed from 524288 to 655360
+* "notsorted" config file **Removed**.
+ 
+
 ### Main Version 1.0.1.0
 
 #### Version 1.0.1.2
