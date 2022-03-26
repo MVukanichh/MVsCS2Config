@@ -40,6 +40,17 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 ### Main Version 1.1.0.0
 
+#### Version 1.1.1.0
+
+* Version in "autoexec" config file changed from 1.1.0.0 to 1.1.1.0
+* Changes in "audio" config file.
+  * <!> **Reverted** Snd_mix_async from previous version, back to "1".
+  * Snd_pitchquality changed from "0" to "1".
+  * <!> **Reverted** Dsp_slow_cpu from previous version, back to "1".
+* Changes in "network" config file.
+  * Rate changed from "655360" to "786432".
+  * Net_maxroutable changed from "900" to "1200".
+
 #### Version 1.1.0.0
 
 * Version in "autoexec" config file changed from 1.0.1.2 to 1.1.0.0.
