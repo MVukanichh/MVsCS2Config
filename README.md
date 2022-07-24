@@ -40,6 +40,35 @@ Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
 
 ### Main Version 1.1.0.0
 
+#### Version 1.1.1.1
+
+* Version in "autoexec" config file changed from 1.1.1.0 to 1.1.1.1
+* Project's name changed from "MilesExInferno Autoexec/Config" to "AvatarOfLust's Autoexec/Config"
+* Tweaks in initial message brought up in console by autoexec
+* Tweaks in "numpad" config file
+* -noubershader Launch Option Removed from "Launch Options" text document
+* -limitvsconst Launch Option Removed from "Launch Options" text document
+* Changes to "Network" config file:
+  * More Values for "rate" cvar listed
+  * "net_maxroutable" cvar's value changed from "1200" to "1000"
+  * "mm_dedicated_search_maxping" cvar's value changed from "60" to "75"
+  * "cl_invites_only_mainmenu" cvar's value changed from "0" to "1"
+  * "sdr_spew_level" cvar removed
+  * Cvar "net_droponsendoverflow" now has info; value changed from "1" to "0"
+  * "net_maxfragments" cvar removed
+  * Cvar "net_splitrate" now has info
+  * "net_allow_multicast" cvar removed
+* Changes to "Video" config file:
+  * "fps_max" cvar's value changed from "400" to "432"
+  * "fps_max_menu" cvar's value changed from "120" to "288"
+  * "r_dynamic" cvar's value changed from "0" to "1"
+* Changes to "Audio" config file:
+  * "volume" cvar's value changed from "0.215" to "0.22"
+  * snd_mixahead" cvar's value changed from "0.5" to "0.025"
+* Changes to "Binds" config file:
+  * "r_cleardecals" cvar removed from being binded to "w", "a", "s", "d", "tab", "shift", "ctrl", "space" and "mouse1"
+  * "r_cleardecals" cvar binded to "mouse2"
+
 #### Version 1.1.1.0
 
 * Version in "autoexec" config file changed from 1.1.0.0 to 1.1.1.0
