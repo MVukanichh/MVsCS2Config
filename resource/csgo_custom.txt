@@ -59,13 +59,13 @@
 		// LOADING SCREEN
 		"LoadingProgress_SpawningServer"			"(0%) Starting local game server..."
 		"LoadingProgress_ProcessServerInfo"			"(10%) Retrieving server info..."
-		"LoadingProgress_LoadMap"				"(10%) Loading world..."
-		"LoadingProgress_PrecacheWorld"				"(20%) Initializing world..."
-		"LoadingProgress_LoadResources"				"(50%) Loading resources..."
-		"LoadingProgress_Connecting"				"(75%) Connecting to server..."
-		"LoadingProgress_SendClientInfo"			"(75%) Sending client info..."
-		"LoadingProgress_SignonLocal"				"(80%) Initializing resources..."
-		"LoadingProgress_SignonData"				"(90%) Retrieving game data..."
+		"LoadingProgress_LoadMap"				"(20%) Loading world..."
+		"LoadingProgress_PrecacheWorld"				"(30%) Initializing world..."
+		"LoadingProgress_LoadResources"				"(40%) Loading resources..."
+		"LoadingProgress_Connecting"				"(50%) Connecting to server..."
+		"LoadingProgress_SendClientInfo"			"(60%) Sending client info..."
+		"LoadingProgress_SignonLocal"				"(70%) Initializing resources..."
+		"LoadingProgress_SignonData"				"(80%) Retrieving game data..."
 		"LoadingProgress_SignonDataLocal"			"(90%) Initializing game data..."
 		
 		// DAMAGE INFO (IN-GAME)
