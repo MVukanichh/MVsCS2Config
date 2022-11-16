@@ -1,40 +1,38 @@
 # MEICSGOConfig
-Counter-Strike: Global Offensive Config by MilesExInferno
+Counter-Strike: Global Offensive Config by MVukanichh
 
-This config is personalized config made by MilesExInferno.
-You can edit it as you want; change any values/parameters to any you want.
+Editing config files is recommended, as to tune it to personal liking.
+Config itself is tuned to be most-compatable with every setup, maximizing advantages/performance, but has many Author's personalised changes/tweaks included in it, which is why it is recommended to tune it to personal liking.
 
-Updates will happen every one (1) week, adding/tweaking/removing certain dvars.
+# How To Use
 
-# How to use
+### How To Download
 
-### How to download
-
-1. Press green "Code" button found at the top of the repository.
-2. Press "Download ZIP"
-3. Press "Save File" and choose in which Location do you want to save ZIP File.
+1. Press green "Code" button found at the top of this repository.
+2. Press "Download ZIP".
+3. Press "Save File" and choose in which Location do you want to save the ZIP File.
 
 ### Launch Options
 
-1. You must right click "Counter-Strike: Global Offensive" in your Steam Library.
-2. Press "Properties" and new window will pop-up.
+1. Right click on "Counter-Strike: Global Offensive" in your Steam Library.
+2. Press "Properties" and a new window will pop-up.
 3. In the very first tab in the new window, you will see "Set Launch Options".
 4. Copy everything from "Launch Options" text file found in the downloaded ZIP file and click "Set Launch Options" button.
-5. Paste everything in there and press ok.
-6. Close that window and start game to check if it works.
+5. Paste everything and press OK.
+6. Close the window and start the game to check if they work.
 
 ### Configs
 
 1. Right click on "Counter-strike: Global Offensive" in your Steam Library.
-2. Press "Properties" and new window will pop-up.
-3. Go to tab called "Local Files"
+2. Press "Properties" and a new window will pop-up.
+3. Go to a tab called "Local Files"
 4. Press "Browse Local Files" button.
 5. Windows Explorer window will pop-up with main folder within "Counter-Strike: Global Offensive" game folder.
 6. Open folder named "csgo"
 7. Copy folders named "cfg" and "resource" and paste them to the "csgo" folder.
   * Only if you already extracted the ZIP File, if not, follow next step.
-8. Hold down shift and select folders named "cfg" and "resource" within opened ZIP File and drag them to "csgo" folder.
-9. Press YES to everything prompted up, even though nothing should.
+8. Hold down Control button (CTRL) and select folders named "cfg" and "resource" within opened ZIP File and drag them to "csgo" folder.
+9. Press YES to everything if prompted.
 
 # Changelog
 
