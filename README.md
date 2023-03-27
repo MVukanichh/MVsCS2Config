@@ -36,9 +36,9 @@ Config itself is tuned to be most-compatable with every setup, maximizing advant
 
 # Changelog
 
-### Main Version 1.5.0.0
+### Main Version 1.5.0.0  - Last Main Version for Counter Strike: Global Offensive on Source 1
 
-#### Version 1.5.0.0
+#### Version 1.5.0.0 
 
 * Version in "autoexec" config file changed from 1.1.1.1 to 1.5.0.0
 * Project's name changed from "AvatarOfLust's Autoexec/Config" to "MVsCSGOConfig"
