@@ -1,4 +1,4 @@
-# MEICSGOConfig
+# MVsCSGOConfig
 Counter-Strike: Global Offensive Config by MVukanichh
 
 Editing config files is recommended, as to tune it to personal liking.
@@ -35,6 +35,51 @@ Config itself is tuned to be most-compatable with every setup, maximizing advant
 9. Press YES to everything if prompted.
 
 # Changelog
+
+### Main Version 1.5.0.0
+
+#### Version 1.5.0.0
+
+* Version in "autoexec" config file changed from 1.1.1.1 to 1.5.0.0
+* Project's name changed from "AvatarOfLust's Autoexec/Config" to "MVsCSGOConfig"
+* Config folder name changed from "AoL" to "MVs"
+* Custom Language file added
+  * Forked from original BananaGaming Text Color Mod
+  * Custom tweaked
+* Tweaks in initial message brought up in console by autoexec
+* Tweaks in "numpad" config file
+* Changes in "Launch Options"
+* Changes in "About Launch Options"
+* Changes to "Audio" config file
+  * All Cvars decapitalized
+  * "volume" cvar's value changed from "0.22" to "0.25"
+  * "snd_tensecondwarning_volume" cvar's value changed from "0.15" to "0.5"
+* Changes to "Binds" config file
+  * All Cvars decapitalized
+* Changes to "Crosshair" config file
+  * All Cvars decapitalized
+* Changes to "Hud" config file
+  * All Cvars decapitalized
+  * "cl_sanitize_muted_players" cvar's value changed from "0" to "1"
+  * "cl_sanitize_player_names" cvar's value changed from "0" to "1"
+  * "cl_hide_avatar_images" cvar's value changed from "0" to "2"
+  * "tv_nochat" cvar's value changed from "0" to "1"
+* Changes to "Mouse" config file
+  * All Cvars decapitalized
+  * "sensitivity" cvar's value changed from "4.15" to "2.65"
+* Changes to "Nadepractice" config file
+  * All Cvars decapitalized
+  * "Bot Commands" section removed
+* Changes to "Network" config file
+  * All Cvars decapitalized
+  * "cl_interp" cvar's value changed from "0.015625" to "0.031"
+  * "cl_interp_ratio" cvar's value changed from "2" to "1"
+  * "cl_resend" cvar's value changed from "5" to "1.5"
+* Changes to "Scripts" config file
+  * All Cvars decapitalized
+* Changes to "Video" config file
+  * All Cvars decapitalized
+  * "engine_no_focus_sleep" cvar's value changed from "50" to "0"
 
 ### Main Version 1.1.0.0
 
