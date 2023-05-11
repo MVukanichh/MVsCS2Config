@@ -1,0 +1,1 @@
+-novid -full +exec autoexec -noff -reuse -forcenovsync -nopreload -nocrashdialog -nojoy -tickrate 128 -language custom +mat_queue_mode 2
