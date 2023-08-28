@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MVukanichh/MVsCSGOConfig">
-    <img src="assets/images/logo.jpg" alt="Logo" width="960" height="320">
+    <img src="assets/images/logo.jpg" alt="Logo">
   </a>
 
   <h1 align="center">MVukanichh's CSGO Config</h3>
