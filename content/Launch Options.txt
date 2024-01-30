@@ -1,0 +1,1 @@
+-novid +exec autoexec -nopreload -nojoy
