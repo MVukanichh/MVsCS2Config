@@ -183,8 +183,10 @@ While writing this file, I've found these resources helpful and used them to mak
 * [Choose an Open Source License](https://choosealicense.com)
 * [README Templates for helping me chose README.md](https://www.readme-templates.com/)
 * [Valve Software for list of CSGO Cvars](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
-* [ArmynC's CSGO Config for a Config Template](https://github.com/ArmynC/ArminC-AutoExec)
+* [ArmynC's CS2 Autoexec for a Config Template](https://github.com/ArmynC/ArminC-AutoExec)
+  * ArmynC's CS2 Autoexec Repository is Licensed under "Creative Commons Zero v1.0 Universal".
 * [xPaw for Custom Text Mod](https://github.com/xPaw/CS2)
+  * xPaw's CS2 Repository is Licensed under "MIT License", which is found in the same directory as the Textmod.
 * [Github Docs for help with Markdown](https://docs.github.com/en/get-started/writing-on-github)
 
 <p align="center">(<a href="#about-the-project">back to top</a>)</p>
