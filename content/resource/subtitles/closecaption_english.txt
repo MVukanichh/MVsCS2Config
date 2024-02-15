@@ -1,3 +1,4 @@
+// Licensed under "MIT License" which is found in the same folder as this file.
 "Source"                                                "https://github.com/xPaw/CS2"
 "Tokens"
 {
