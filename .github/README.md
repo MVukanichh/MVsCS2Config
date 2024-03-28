@@ -13,7 +13,7 @@
 
   <h1 align="center">MVukanichh's CS2 Config</h1>
   <p align="center">
-  MVukanichh's CS2 Config is a custom config template. It is well-documented and separated into individual config files in order to improve readability. It optimizes certain parts of CS2, but it's main purpose is to serve as an excellent template for personal customization of CS2 settings.
+  MVukanichh's CS2 Config is a custom config template. It is well-documented and separated into individual config files to improve readability. It optimizes certain parts of CS2, but its main purpose is to serve as an excellent template for personal customization of CS2 settings.
     <br />
     <a href="../.github/CHANGELOG">View Changelog</a>
     ·
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-MVukanichh's Counter-Strike 2 Config is a config template. It's main purpose is to serve as an template for personal customization as it is well-documented and easy to read and edit, since it's organized into multiple config files, categorizing configs into separate files.
+MVukanichh's Counter-Strike 2 Config is a config template. Its main purpose is to serve as a template for personal customization as it is well-documented and easy to read and edit since it's organized into multiple config files, categorizing configs into separate files.
 
 > [!NOTE]  
 > While it's both intended to and recommended to edit configs provided in this template, it is also possible to use them as-is, since MVukanichh's CS2 Config(s) strive to have out-of-box optimized and (hopefully) best configured settings.
@@ -65,11 +65,11 @@ MVukanichh's Counter-Strike 2 Config is a config template. It's main purpose is 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-As stated previously, MVukanichh's CS2 Config can be used as-is, but it is highly recommended to edit to suit user's preferences.
+As stated previously, MVukanichh's CS2 Config can be used as-is, but it is highly recommended to edit to suit the user's preferences.
 
 ### Prerequisites
 
-In order for MVukanichh's CS2 Config to be usable, next software should be installed beforehand:
+For MVukanichh's CS2 Config to be usable, the next software should be installed beforehand:
 
 - Counter-Strike 2
 - Notepad++
@@ -77,14 +77,14 @@ In order for MVukanichh's CS2 Config to be usable, next software should be insta
 
 ### Installation
 
-MVukanichh's CS2 Config includes optimized config templates, as stated before, but also closed-caption file used as a replacement for text mod and optimized launch options, thus two separate installation processes must be followed:
+MVukanichh's CS2 Config includes optimized config templates, as stated before, but also a closed-caption file used as a replacement for text mod and optimized launch options, thus two separate installation processes must be followed:
 
 > [!NOTE]  
 > As of 14th of December 2023, Text Mods have been disabled in Counter-Strike 2. In order to work around that, closed-caption file must be created and used instead.
 
 #### Downloading the ZIP File 
 
-In order to use files provided, zipped file containing whole repository, alongside files that will actually be used, must be downloaded. In order to do so, follow these steps:
+To use the files provided, a zipped file containing the whole repository, alongside files that will be used, must be downloaded. To do so, follow these steps:
 
 1. Press green "Code" button found at the top of this repository
 2. Press "Download ZIP"
@@ -92,34 +92,34 @@ In order to use files provided, zipped file containing whole repository, alongsi
 
 #### Launch Options
 
-In order to apply Launch Options, next steps must be followed:
+To apply Launch Options, the next steps must be followed:
 
-1. Right click on "Counter-Strike 2" in the Steam Library
-2. Press "Properties" and a new window will pop-up
+1. Right-click on "Counter-Strike 2" in the Steam Library
+2. Press "Properties" and a new window will pop up
 3. In the very first tab in the new window, "Set Launch Options" should be clicked on
 4. Open ZIP File
-5. Open Folder named "content"
-4. Copy everything from "Launch Options" text file and click "Set Launch Options" button
+5. Open the Folder named "content"
+4. Copy everything from the "Launch Options" text file and click the "Set Launch Options" button
 5. Paste everything and press OK
 
 #### Configs and Close-Captions file
 
-In order to use Configs and Close-Captions files, next steps must be followed:
+To use Configs and Close-Captions files, the next steps must be followed:
 
-1. Right click on "Counter-strike 2" in the Steam Library
-2. Press "Properties" and a new window will pop-up
-3. Click on a "Local Files" tab
+1. Right-click on "Counter-strike 2" in the Steam Library
+2. Press "Properties" and a new window will pop up
+3. Click on the "Local Files" tab
 4. Press "Browse Local Files"
-	- Windows Explorer window will pop-up with main folder within "Counter-Strike Global Offensive" game folder
+	- Windows Explorer window will pop up with the main folder within the "Counter-Strike Global Offensive" game folder
 
 > [!NOTE]  
 > Even though the game is now "Counter-Strike 2", it still uses "Counter-Strike Global Offensive" name for the main folder. 
 
-5. Open folder named "game"
-6. Open folder named "csgo"
+5. Open the folder named "game"
+6. Open the folder named "csgo"
 7. Open ZIP file 
-8. Open Folder named "content"
-9. Hold down Control button (CTRL) and select folders named "cfg" and "resource" within opened ZIP File and drag them to "csgo" folder
+8. Open the Folder named "content"
+9. Hold down the Control button (CTRL) and select folders named "cfg" and "resource" within the opened ZIP File and drag them to the "csgo" folder
 10. Press YES to everything if prompted
 
 ---
@@ -127,19 +127,19 @@ In order to use Configs and Close-Captions files, next steps must be followed:
 <!-- USAGE -->
 ## Usage
 
-As stated previously, MVukanichh's CS2 Config can be used as-is, and if that's your choice, then in order to use it you have to do nothing more.
+As stated previously, MVukanichh's CS2 Config can be used as-is, and if that's your choice, then to use it you have to do nothing more.
 
 If, however, you want to edit configs to suit your preferences, do the following:
 
 1. Right-click on "Counter-strike 2" in the Steam Library
-2. Press "Properties" and a new window will pop-up
-3. Click on a "Local Files" tab
+2. Press "Properties" and a new window will pop up
+3. Click on the "Local Files" tab
 4. Press "Browse Local Files"
-5. Open folder named "game"
-6. Open folder named "csgo"
-7. Open folder named "cfg"
-8. Open folder named "MVs"
-9. Right-click on config file that you wan't to edit
+5. Open a folder named "game"
+6. Open a folder named "csgo"
+7. Open a folder named "cfg"
+8. Open a folder named "MVs"
+9. Right-click on a config file that you want to edit
 10. Click on "Edit with Notepad++"
 
 ---
@@ -160,7 +160,7 @@ See the [open issues](https://github.com/MVukanichh/MVsCS2Config/issues) for a f
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions made are **greatly appreciated**.
+Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions made are **greatly appreciated**.
 
 If there is any suggestion that would make this project better, open an issue with the tag "enhancement".
 
@@ -178,10 +178,10 @@ Distributed under the CC-BY-4.0 License. See ``LICENSE`` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-While writing this file, I've found these resources helpful and used them to make both this README.md file and other content in this project. Go check them out!
+While writing this file, I found these resources helpful and used them to make both this README.md file and other content in this project. Go check them out!
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [README Templates for helping me chose README.md](https://www.readme-templates.com/)
+* [README Templates for helping me choose README.md](https://www.readme-templates.com/)
 * [Valve Software for list of CSGO Cvars](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
 * [ArmynC's CS2 Autoexec for a Config Template](https://github.com/ArmynC/ArminC-AutoExec)
   * ArmynC's CS2 Autoexec Repository is Licensed under "Creative Commons Zero v1.0 Universal".
