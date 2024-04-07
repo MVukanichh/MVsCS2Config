@@ -15,8 +15,6 @@
   <p align="center">
   MVukanichh's CS2 Config is a custom config template. It is well-documented and separated into individual config files to improve readability. It optimizes certain parts of CS2, but its main purpose is to serve as an excellent template for personal customization of CS2 settings.
     <br />
-    <a href="../.github/CHANGELOG">View Changelog</a>
-    ·
     <a href="../LICENSE">View License</a>
     ·
     <a href="https://github.com/MVukanichh/MVsCS2Config/issues">Report Bug</a>
@@ -178,7 +176,7 @@ Distributed under the CC-BY-4.0 License. See ``LICENSE`` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-While writing this file, I found these resources helpful and used them to make both this README.md file and other content in this project. Go check them out!
+I've found these resources helpful and used them to make this project. Huge thanks to them.
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [README Templates for helping me choose README.md](https://www.readme-templates.com/)
