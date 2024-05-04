@@ -1,8 +1,12 @@
+<center>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+</center>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -58,6 +62,11 @@ MVukanichh's Counter-Strike 2 Config is a config template. Its main purpose is t
 > [!NOTE]  
 > While it's both intended to and recommended to edit configs provided in this template, it is also possible to use them as-is, since MVukanichh's CS2 Config(s) strive to have out-of-box optimized and (hopefully) best configured settings.
 
+> [!IMPORTANT]
+> As of 15th of February 2024, Counter-Strike 2 switched to new scancode-based binds system, which are linked to scan-codes of keys and not their names.
+> 
+> The crosshair is designed for a 2560x1080 resolution. Experience with it may vary on different resolutions, and further editing of it might be needed.
+
 ---
 
 <!-- GETTING STARTED -->
@@ -77,8 +86,8 @@ For MVukanichh's CS2 Config to be usable, the next software should be installed 
 
 MVukanichh's CS2 Config includes optimized config templates, as stated before, but also a closed-caption file used as a replacement for text mod and optimized launch options, thus two separate installation processes must be followed:
 
-> [!NOTE]  
-> As of 14th of December 2023, Text Mods have been disabled in Counter-Strike 2. In order to work around that, closed-caption file must be created and used instead.
+> [!WARNING]
+> ~~As of 14th of December 2023, Text Mods have been disabled in Counter-Strike 2. In order to work around that, closed-caption file must be created and used instead.~~ As of 26th of April 2024, according to xPaw, Textmod (close-captions file) no longer works.
 
 #### Downloading the ZIP File 
 
@@ -100,9 +109,10 @@ To apply Launch Options, the next steps must be followed:
 4. Copy everything from the "Launch Options" text file and click the "Set Launch Options" button
 5. Paste everything and press OK
 
-#### Configs and Close-Captions file
+#### Configs ~~and Close-Captions file~~
 
-To use Configs and Close-Captions files, the next steps must be followed:
+
+To use Configs ~~and Close-Captions files~~, the next steps must be followed:
 
 1. Right-click on "Counter-strike 2" in the Steam Library
 2. Press "Properties" and a new window will pop up
@@ -117,7 +127,7 @@ To use Configs and Close-Captions files, the next steps must be followed:
 6. Open the folder named "csgo"
 7. Open ZIP file 
 8. Open the Folder named "content"
-9. Hold down the Control button (CTRL) and select folders named "cfg" and "resource" within the opened ZIP File and drag them to the "csgo" folder
+9. Hold down the Control button (CTRL) and select folder~~s~~ named "cfg" ~~and "resource"~~ within the opened ZIP File and drag them to the "csgo" folder
 10. Press YES to everything if prompted
 
 ---
@@ -145,10 +155,10 @@ If, however, you want to edit configs to suit your preferences, do the following
 <!-- ToDO -->
 ## ToDo
 
-- [ ] Add Closed-Caption files in languages other than English
-	- [ ] Russian
-	- [ ] Polish
-	- [ ] German
+- [ ] ~~Add Closed-Caption files in languages other than English~~
+	- [ ] ~~Russian~~
+	- [ ] ~~Polish~~
+	- [ ] ~~German~~
 - [ ] Add a section focusing on improving Performance for CS2
 
 See the [open issues](https://github.com/MVukanichh/MVsCS2Config/issues) for a full list of proposed features (and known issues).
@@ -185,6 +195,7 @@ I've found these resources helpful and used them to make this project. Huge than
   * ArmynC's CS2 Autoexec Repository is Licensed under "Creative Commons Zero v1.0 Universal".
 * [xPaw for Custom Text Mod](https://github.com/xPaw/CS2)
   * xPaw's CS2 Repository is Licensed under "MIT License", which is found in the same directory as the Textmod.
+  * According to xPaw, Textmod is no longer working, therefore it is best to assume that their repository will not be updated in the future.
 * [Github Docs for help with Markdown](https://docs.github.com/en/get-started/writing-on-github)
 
 <p align="center">(<a href="#about-the-project">back to top</a>)</p>
