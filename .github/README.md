@@ -1,15 +1,14 @@
-<center>
+<div align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-</center>
+</div>
 
 <!-- PROJECT LOGO -->
-<br />
+<br>
 <div align="center">
   <a href="https://github.com/MVukanichh/MVsCS2Config">
     <img src="../assets/images/logo_cs2_v2.png" alt="Logo">
@@ -32,7 +31,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+<summary align="center">Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -93,20 +92,20 @@ MVukanichh's CS2 Config includes optimized config templates, as stated before, b
 
 To use the files provided, a zipped file containing the whole repository, alongside files that will be used, must be downloaded. To do so, follow these steps:
 
-1. Press green "Code" button found at the top of this repository
-2. Press "Download ZIP"
-3. Press "Save File" and choose in which Location ZIP File should be saved to
+1. Press green `Code` button found at the top of this repository
+2. Press `Download ZIP`
+3. Press `Save File` and choose in which Location ZIP File should be saved to
 
 #### Launch Options
 
 To apply Launch Options, the next steps must be followed:
 
-1. Right-click on "Counter-Strike 2" in the Steam Library
-2. Press "Properties" and a new window will pop up
-3. In the very first tab in the new window, "Set Launch Options" should be clicked on
+1. Right-click on `Counter-Strike 2` in the Steam Library
+2. Press `Properties` and a new window will pop up
+3. In the very first tab in the new window, `Set Launch Options` should be clicked on
 4. Open ZIP File
-5. Open the Folder named "content"
-4. Copy everything from the "Launch Options" text file and click the "Set Launch Options" button
+5. Open the Folder named `content`
+4. Copy everything from the `Launch Options` text file and click the `Set Launch Options` button
 5. Paste everything and press OK
 
 #### Configs ~~and Close-Captions file~~
@@ -114,20 +113,20 @@ To apply Launch Options, the next steps must be followed:
 
 To use Configs ~~and Close-Captions files~~, the next steps must be followed:
 
-1. Right-click on "Counter-strike 2" in the Steam Library
-2. Press "Properties" and a new window will pop up
-3. Click on the "Local Files" tab
-4. Press "Browse Local Files"
-	- Windows Explorer window will pop up with the main folder within the "Counter-Strike Global Offensive" game folder
+1. Right-click on `Counter-strike 2` in the Steam Library
+2. Press `Properties` and a new window will pop up
+3. Click on the `Local Files` tab
+4. Press `Browse Local Files`
+	- Windows Explorer window will pop up with the main folder within the `Counter-Strike Global Offensive` game folder
 
 > [!NOTE]  
-> Even though the game is now "Counter-Strike 2", it still uses "Counter-Strike Global Offensive" name for the main folder. 
+> Even though the game is now `Counter-Strike 2`, it still uses `Counter-Strike Global Offensive` name for the main folder. 
 
-5. Open the folder named "game"
-6. Open the folder named "csgo"
+5. Open the folder named `game`
+6. Open the folder named `csgo`
 7. Open ZIP file 
-8. Open the Folder named "content"
-9. Hold down the Control button (CTRL) and select folder~~s~~ named "cfg" ~~and "resource"~~ within the opened ZIP File and drag them to the "csgo" folder
+8. Open the Folder named `content`
+9. Hold down the Control button (CTRL) and select folder~~s~~ named `cfg` ~~and `resource`~~ within the opened ZIP File and drag them to the `csgo` folder
 10. Press YES to everything if prompted
 
 ---
@@ -139,21 +138,21 @@ As stated previously, MVukanichh's CS2 Config can be used as-is, and if that's y
 
 If, however, you want to edit configs to suit your preferences, do the following:
 
-1. Right-click on "Counter-strike 2" in the Steam Library
-2. Press "Properties" and a new window will pop up
-3. Click on the "Local Files" tab
-4. Press "Browse Local Files"
-5. Open a folder named "game"
-6. Open a folder named "csgo"
-7. Open a folder named "cfg"
-8. Open a folder named "MVs"
+1. Right-click on `Counter-strike 2` in the Steam Library
+2. Press `Properties` and a new window will pop up
+3. Click on the `Local Files` tab
+4. Press `Browse Local Files`
+5. Open a folder named `game`
+6. Open a folder named `csgo`
+7. Open a folder named `cfg`
+8. Open a folder named `MVs`
 9. Right-click on a config file that you want to edit
-10. Click on "Edit with Notepad++"
+10. Click on `Edit with Notepad++`
 
 ---
 
-<!-- ToDO -->
-## ToDo
+<!-- Roadmap -->
+## Roadmap
 
 - [ ] ~~Add Closed-Caption files in languages other than English~~
 	- [ ] ~~Russian~~
@@ -170,7 +169,7 @@ See the [open issues](https://github.com/MVukanichh/MVsCS2Config/issues) for a f
 
 Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions made are **greatly appreciated**.
 
-If there is any suggestion that would make this project better, open an issue with the tag "enhancement".
+If there is any suggestion that would make this project better, open an issue with the tag `enhancement`.
 
 Don't forget to give the project a star! 
 
